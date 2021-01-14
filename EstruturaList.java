@@ -45,7 +45,7 @@ public class EstruturaList {
              
              methods.remover_student(lista, nome_other);
               
-             System.out.println(" After - remove student ");
+             System.out.println(" After - remove student Element");
              
              methods.show_list(lista);
              
